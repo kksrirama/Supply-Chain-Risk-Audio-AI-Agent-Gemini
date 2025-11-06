@@ -1,0 +1,7 @@
+{
+  "name": "Supply Chain Risk - Interactive Audio AI agent",
+  "description": "An interactive AI assistant for supply chain specialists to analyze product risks in relation to recent world events using real-time conversation via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
